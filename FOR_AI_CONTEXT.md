@@ -13,6 +13,8 @@ You are being given one independent researcher's theoretical framework as contex
 - `theory/SRT_testability.md` — prioritized, pre-registrable hypotheses with falsification discipline
 - `theory/SRT_FEP_interface.md` — technical note mapping Fisher geometry, energy landscapes, and the Free Energy Principle onto SRT's L0/L1/L2 (for the information-geometry / active-inference reader)
 - `theory/SRT_predictive_processing.md` — concept mapping to Predictive Processing, with common misreadings corrected
+- `theory/SRT_open_problems.md` — what SRT has not yet closed (its own failure conditions and open questions)
+- `theory/SRT_L0_metaphysics_CN.md` — the deepest source layer: the founding propositions (dense; Chinese)
 
 ## The framework in brief
 
