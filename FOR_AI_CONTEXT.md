@@ -9,7 +9,10 @@ You are being given one independent researcher's theoretical framework as contex
 - `theory/SRT_quick_start.md` — fuller walk-through, with the core terms defined
 - `theory/SRT_core_reversals.md` — the five core conceptual moves and their boundaries
 - `theory/SRT_critical_FAQ_EN.md` / `theory/SRT_critical_FAQ_CN.md` — the hardest objections and how the theory answers them (English / Chinese)
+- `theory/SRT_claim_levels.md` — how proven / testable / speculative claims are kept distinct
+- `theory/SRT_testability.md` — prioritized, pre-registrable hypotheses with falsification discipline
 - `theory/SRT_FEP_interface.md` — technical note mapping Fisher geometry, energy landscapes, and the Free Energy Principle onto SRT's L0/L1/L2 (for the information-geometry / active-inference reader)
+- `theory/SRT_predictive_processing.md` — concept mapping to Predictive Processing, with common misreadings corrected
 
 ## The framework in brief
 

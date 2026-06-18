@@ -10,15 +10,17 @@ Start at the top; each step adds depth.
 2. **Quick start** — [`theory/SRT_quick_start.md`](theory/SRT_quick_start.md). A longer walk-through, with plain-language definitions of the core terms (`Ĝθ`, `d-value`, `Ψf`, `T_dir`) and a "what SRT is not" table.
 3. **Core reversals** — [`theory/SRT_core_reversals.md`](theory/SRT_core_reversals.md). The five conceptual moves at the heart of the theory, each paired with the misreading it invites and the boundary that blocks it.
 
-## Objections
+## Objections, discipline, and evidence
 
-4. **Critical FAQ** — thirteen of the hardest objections (falsifiability, panpsychism, relation to the Free Energy Principle, the "explains everything" risk, AI vs. consciousness).
-   - [`theory/SRT_critical_FAQ_EN.md`](theory/SRT_critical_FAQ_EN.md) (English)
-   - [`theory/SRT_critical_FAQ_CN.md`](theory/SRT_critical_FAQ_CN.md) （中文）
+4. **Critical FAQ** — thirteen of the hardest objections (falsifiability, panpsychism, the "explains everything" risk, AI vs. consciousness).
+   - [`theory/SRT_critical_FAQ_EN.md`](theory/SRT_critical_FAQ_EN.md) (English) · [`theory/SRT_critical_FAQ_CN.md`](theory/SRT_critical_FAQ_CN.md) （中文）
+5. **Claim levels** — [`theory/SRT_claim_levels.md`](theory/SRT_claim_levels.md). How proven, testable, and speculative claims are kept separate, so the strong parts aren't inflated.
+6. **Testability** — [`theory/SRT_testability.md`](theory/SRT_testability.md). A prioritized sample of the experimental program: concrete, pre-registrable hypotheses with minimal metrics and falsification discipline.
 
 ## Technical / advanced
 
-5. **Fisher geometry, energy landscapes, and the FEP** — [`theory/SRT_FEP_interface.md`](theory/SRT_FEP_interface.md). For readers familiar with information geometry and active inference: how Fisher geometry, energy landscapes, and the Free Energy Principle map onto SRT's `L0/L1/L2` — and why they should not be collapsed into bare identities.
+7. **Fisher geometry, energy landscapes, and the FEP** — [`theory/SRT_FEP_interface.md`](theory/SRT_FEP_interface.md). How Fisher geometry, energy landscapes, and the Free Energy Principle map onto `L0/L1/L2` — and why they should not be collapsed into bare identities.
+8. **SRT and Predictive Processing** — [`theory/SRT_predictive_processing.md`](theory/SRT_predictive_processing.md). Concept-by-concept mapping to PP/FEP, plus the common misreadings it corrects.
 
 ## Deeper material
 
