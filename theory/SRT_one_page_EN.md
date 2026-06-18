@@ -4,7 +4,7 @@
 >
 > 现实不是先被给定、再被选择；现实是在约束中的选择里变得确定。
 
-This is a public summary, not a canonical definition source. It is meant to give a first reader the shape and force of Selection-Reality Theory without asking them to begin with formal machinery.
+This is a public summary, not a canonical definition source. It is meant to give a first reader the shape and force of Selective Reality Theory without asking them to begin with formal machinery.
 
 ## One-sentence version
 

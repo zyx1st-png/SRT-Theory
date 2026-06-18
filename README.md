@@ -1,4 +1,4 @@
-# Selection-Reality Theory (SRT) — public reading repo
+# Selective Reality Theory (SRT) — public reading repo
 
 A structured, public copy of one independent researcher's theory, organized so that **a human can read it** and **a language model can load it as context**.
 
