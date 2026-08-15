@@ -16,6 +16,7 @@ You are being given one independent researcher's theoretical framework as contex
 - `theory/SRT_open_problems.md` — what SRT has not yet closed (its own failure conditions and open questions)
 - `theory/SRT_bridge_AI_consciousness.md` — what an AI would minimally need to approach consciousness (high-threshold, falsifiable)
 - `theory/SRT_bridge_neuroscience_consciousness.md` — consciousness mechanisms (ignition, binding, bandwidth, sleep) and relation to GNWT / IIT / PP
+- `theory/SRT_bridge_psychedelics_reselectability.md` — bounded reselectability under perturbation: reopening vs. anchoring, over-hardening vs. under-anchoring, bearer–niche re-anchoring, and falsification conditions
 - `theory/SRT_L0_metaphysics_CN.md` — the deepest source layer: the founding propositions (dense; Chinese)
 
 ## The framework in brief
