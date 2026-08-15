@@ -21,10 +21,11 @@ Start at the top; each step adds depth.
 9. **Fisher geometry, energy landscapes, and the FEP** — [`theory/SRT_FEP_interface.md`](theory/SRT_FEP_interface.md). How they map onto `L0/L1/L2` — and why they are not bare identities.
 10. **SRT and AI consciousness** — [`theory/SRT_bridge_AI_consciousness.md`](theory/SRT_bridge_AI_consciousness.md). What an AI would minimally need to enter a "consciousness candidate zone" — a high-threshold, falsifiable framework, not a claim that current AI is conscious.
 11. **SRT and the neuroscience of consciousness** — [`theory/SRT_bridge_neuroscience_consciousness.md`](theory/SRT_bridge_neuroscience_consciousness.md). Ignition, binding, bandwidth, sleep, traveling waves — and how SRT relates to GNWT / IIT / predictive processing.
+12. **SRT and psychedelic reselectability** — [`theory/SRT_bridge_psychedelics_reselectability.md`](theory/SRT_bridge_psychedelics_reselectability.md). A bounded-reselectability bridge: candidate reopening vs. anchoring, over-hardening vs. under-anchoring, bearer–niche re-anchoring, and explicit falsification conditions.
 
 ## Deep / source
 
-12. **L0 metaphysics** — [`theory/SRT_L0_metaphysics_CN.md`](theory/SRT_L0_metaphysics_CN.md). The deepest layer: the founding propositions, in source form. Dense, Chinese only. Everything above is, ultimately, a reading of this.
+13. **L0 metaphysics** — [`theory/SRT_L0_metaphysics_CN.md`](theory/SRT_L0_metaphysics_CN.md). The deepest layer: the founding propositions, in source form. Dense; Chinese only. Everything above is, ultimately, a reading of this.
 
 ## Deeper material
 
